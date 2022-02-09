@@ -12,7 +12,7 @@ class Insect:
     def flight_length(self):
 
         self.flight = random.randint(1,10)
-        print(self.flight)
+        
     
     def get_flight(self):
         return self.flight
