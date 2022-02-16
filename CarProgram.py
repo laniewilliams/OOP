@@ -1,6 +1,6 @@
 import CarClass as c 
 
-my_car = c.Car(2016,'Toyota',0)
+my_car = c.Car(2016,'Toyota')
 
 for i in range(5):
     my_car.accelerate()
